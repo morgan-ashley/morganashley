@@ -1,2 +1,1 @@
-My personal website
-[Absolute README link](http://morganashley.me)
+[My personal website](http://morganashley.me)
