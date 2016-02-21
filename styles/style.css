@@ -16,10 +16,10 @@ nav {
 #proj {
       margin: 10px;
       padding: 20px;
-   }
+      border: 1px solid #ddeee9;
+}
 #proj:hover{
-   height:110%;
-   width: 110%;
+   box-shadow: 0px 0px 8px 0px rgba(94, 178, 153, 0.8); 
 }
 #nav-wrapper{
    background-color: #5EB299; 
@@ -63,6 +63,11 @@ h1 {
 	margin-top: -0.8em;
 	margin-bottom: -0.1em;
 	text-align: center;
+}
+h3 {
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 1.7em;
+   margin-bottom: 0;
 }
 p {
 	display: inline-block;
@@ -121,10 +126,16 @@ footer a{
    	padding: 0;
    	font-size: 5em;
    }
+   h3{
+      font-size: 1.2em;
+   }
    p {
    	font-size: 1.6em;
    	padding: 40px 8px;
    }
+   img{
+   width: 70%;
+}
    footer {
    	bottom: 0;
    	position: fixed;
@@ -152,9 +163,15 @@ footer a{
    	max-width: 100%;
    	padding-top: 80px;
    }
+   h3{
+      font-size: 1.5em;
+   }
    p {
       font-size: 1em;
    	padding:50px 15px;
+   }
+   img{
+      width: 80%;
    }
 }
 
