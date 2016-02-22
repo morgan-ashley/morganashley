@@ -71,7 +71,7 @@ h3 {
 }
 p {
 	display: inline-block;
-	font-family: 'Josefin Sans', sans-serif;
+	/* font-family: 'Josefin Sans', sans-serif; */
 	font-size: 1.3em;
 	text-align: justify;
 	padding: 30px 0;
@@ -133,7 +133,7 @@ footer a{
    	font-size: 1.6em;
    	padding: 40px 8px;
    }
-   img{
+   #proj{
    width: 70%;
 }
    footer {
@@ -170,7 +170,7 @@ footer a{
       font-size: 1em;
    	padding:50px 15px;
    }
-   img{
+   #proj{
       width: 80%;
    }
 }
